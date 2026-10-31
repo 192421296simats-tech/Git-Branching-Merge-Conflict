@@ -4,5 +4,5 @@
 
 **This repository demonstrates Git branches, collaboration, and merge conflict resolution.**
 
-**Main branch: Updated by another collaborator.**
-
+Feature branch: Added a new section for branch updates.
+Main branch: Updated by another collaborator.
